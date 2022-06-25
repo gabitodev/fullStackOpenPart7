@@ -1,0 +1,1 @@
+Exercises for FullStackOpen2022 Part 7
